@@ -364,8 +364,6 @@ int encode() {
     fclose(asdf);
     return 0;
 }
-<<<<<<< HEAD
-=======
 
 int main(int argc, char** argv) {
     try {
@@ -377,4 +375,3 @@ int main(int argc, char** argv) {
         return 1;
     }
 }
->>>>>>> ac711c0facf4f6ebf54b70f59b35aa0a2f3c2a91
